@@ -1,0 +1,28 @@
+Lab 1a Write-Up
+Ian Lum
+Introduction
+	
+We were tasked with identifying an unknown bacteria by streaking the bacteria on nine agars that hold unique properties, in addition to exposing the bacteria to two antibiotics, ampicillin and chloramphenicol, with water as a control. After the plates incubated for three days, we observed the results.
+
+Results
+
+	Of the nine agars, four of them showed growth. Those were bile esculin agar (BEA), chromagar (CHRM), spirit blue, and nutrient agar (LB). Additionally, the growth on chromagar was a peach color and the spirit blue agar was significantly less blue than when the bacteria was added. We checked our plates a week later and noticed growth on phenylethanol agar (PEA), however we are unsure whether the growth is contamination or legitimate growth. For the antibiotics plate, ampicillin was very effective—there was a large area without growth around the ampicillin disk—, chloramphenicol is slightly effective—there was a small circle without growth around the chloramphenicol disk—, and water had no effect.
+
+Analysis
+
+	From these results, we were able to identify defining characteristics of our unknown bacteria, as well as a few potential bacterias that our unknown could be. The bacteria our unknown is most likely is is Pseudomonas fluorescens. The greatest piece of evidence is our results from chromagar, a peach colored growth. The supplemental information states that Pseudomonas produces cream growth, a similar color to our chromagar growth. Additionally, our spirit blue changed to a much lighter shade of blue, which occurs when spirit blue is exposed to lipase, which P. fluorescens secretes. Finally bile esculin agar inhibits most gram positive bacteria, and P. fluorescens is gram negative.
+Despite this sum of evidence in favor of P. fluorescens, there is decent evidence that points towards other bacteria. Many of the agar dishes that didn’t show growth suggest that the unknown bacteria is gram positive, such as eosin methylene blue (EMB) and Simmons citrate (simm) which are selective for gram negative and MacConkey’s (MacC) which inhibits gram positive growth. Additionally, phenylethanol Agar (PEA) cultivates gram positive bacteria, and if the growth noticed a week later isn’t contamination, then our unknown is likely gram positive. It was previously mentioned that BEA inhibits most gram positive bacteria, the exception is bile tolerant bacteria, or bacteria that grows in the intestines. Furthermore, ampicillin only affects gram positive and some gram negative bacteria, and our unknown was affected. However, we are skeptical to read too closely into the lack of growth, as there is a high likelihood of human error during the preparation of the bacteria. We only identified two gram positive and bile resistant bacteria, those being Clostridium sporogenes and Sarcina aurantiaca. However, neither C. sporogenes nor S. aurantiaca secrete lipase, contradicting our results from spirit blue. If our unknown bacteria is in fact one of C. sporogenes or S. aurantiaca, our results from both spirit blue and chromagar would be flukes.
+Though we can draw these two hypotheses, our data is inconclusive. If we are to believe that our unknown is P. fluorescens, we would have to ignore the potential growth on PEA and the lack of growth on EMB, simm, and MacC. If we are to believe that our unknown is one of C. sporogenes and S. aurantiaca, we would have to ignore the results from spirit blue and chromagar.
+
+Source of Error
+
+	Much of the uncertainty in the analysis is likely due to error during the experiment. This error could be improper sterile technique, improper streaking, or even forgetting to add bacteria to certain dishes. Especially as this is our first experiment of the year and first time using many of these instruments, we are inexperienced and much more prone to making mistakes.
+
+Conclusion
+
+	Our unknown bacteria is most likely the gram negative and lipase secreting Pseudomonas fluorescens, or one of the two gram positive and bile resistant Clostridium sporogenes or Sarcina aurantiaca. These conclusions were drawn from the color of chromagar and spirit blue, the growth on BEA, the potential growth on PEA, the effectiveness of ampicillin, and the lack of growth on EMB, simm, and MacC. However, much of the data is contradictory and likely tainted by human error during the preparation of the bacteria on the agar.
+
+
+Works Cited
+
+Pseudomonas fluorescens. (n.d.). Retrieved from https://microbewiki.kenyon.edu/index.php/Pseudomonas_fluorescens
